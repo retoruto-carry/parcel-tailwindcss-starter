@@ -34,11 +34,11 @@
     "sass": "^1.28.0",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0",
-    "tailwindcss": "^1.9.6"
-  },
-  "dependencies": {
+    "tailwindcss": "^1.9.6",
     "stylelint": "^13.7.2",
     "stylelint-prettier": "^1.1.2",
     "stylelint-scss": "^3.18.0"
+  },
+  "dependencies": {
   }
 }
